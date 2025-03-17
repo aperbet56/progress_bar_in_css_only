@@ -17,7 +17,7 @@ Pour que le projet fonctionne, utilisez le naivageur Chrome !
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/progress_bar_in_css_only/
 
 ## Projet développé avec
 
