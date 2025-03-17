@@ -1,8 +1,8 @@
-## BARRE DE PROGRESSION EN CSS SEULEMENT / PROGRESS BAR IN CSS ONLY
+## BARRE DE PROGRESSION EN HTML 5 ET CSS3 SEULEMENT / PROGRESS BAR IN HTML5 AND CSS3 ONLY
 
 ## Le challenge
 
-Création d'une barre de progression en css uniquement. Elle exploite la puissance de la propriété animation-timeline: scroll() qui relie directement la progression de l'animation à votre position de défilement.
+Création d'une barre de progression en HTML5 et CSS3 uniquement. Elle exploite la puissance de la propriété animation-timeline: scroll() qui relie directement la progression de l'animation à votre position de défilement.
 
 Au fur et à mesure que vous faites défiler la page, la barre de progression se remplit en parfaite synchronisation avec vos mouvements. C'est une façon subtile mais efficace d'améliorer l'expérience utilisateur.
 
