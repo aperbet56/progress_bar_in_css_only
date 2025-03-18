@@ -13,7 +13,7 @@ Le résultat ?
 Une animation fluide et naturelle qui semble intuitive et performante.
 
 Le seul inconvénient pour l'instant est la prise en charge par les navigateurs. En effet, tous les navigateurs ne prennent pas en charge la propriété animation-timeline.
-Pour que le projet fonctionne, utilisez le naivageur Chrome !
+Pour que le projet fonctionne, utilisez une version récente du navigateur Chrome !
 
 ## Démonstration
 
@@ -27,5 +27,5 @@ Lien vers le projet : https://aperbet56.github.io/progress_bar_in_css_only/
 - Commentaires HTML
 - Commentaires CSS
 - Page web responsive
-- Importation de la police "Montserrat"
+- Importation des polices "Montserrat" et "Open Sans"
 - Utilisation d'un normaliseur : le fichier normalize.css
